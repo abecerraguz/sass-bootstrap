@@ -1,7 +1,6 @@
 <section>
 
 # PARA INSTALAR BOOTSTRAP CON NODE
-Debemos tener instalado Node.js y NPM para saber si esta instalado se escribe en el terminal
 
 ~~~
 
